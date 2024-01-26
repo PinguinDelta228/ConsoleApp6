@@ -14,6 +14,7 @@
             else
             {
                 Console.WriteLine("Здраствуй небо в облаках");
+                Console.WriteLine("Здраствуй небо в облаках");
             }
             
         }
